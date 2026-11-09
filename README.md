@@ -1,6 +1,6 @@
 # Expo Apple Music Bottom Sheet 🎶
 
-A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**.
+A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**. Related: [Mini Player Sheet](https://motionary.dev/animations/mini-player-sheet).
 
 
 A smooth and interactive Apple Music–style bottom sheet animation built with:
